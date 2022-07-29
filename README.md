@@ -1,6 +1,13 @@
 # Chem2.0
 This repository is mainly for electrochemistry, relative books reading or some resources.
 # Book-List
+| 序号 |书名   |日期|
+|---|---|---|
+| Uno |[固态电化学](https://github.com/omwtbarca/Chem2.0/edit/main/README.md#uno-%E5%9B%BA%E6%80%81%E7%94%B5%E5%8C%96%E5%AD%A6)   |20220725-|
+| Dos |[电催化](https://github.com/omwtbarca/Chem2.0/edit/main/README.md#dos-%E7%94%B5%E5%82%AC%E5%8C%96)   |20220730-|
+
+
+
 ## Uno. [固态电化学](https://book.douban.com/subject/30167161/)
 $${\mathscr{2022年7月25日——}}$$
 
