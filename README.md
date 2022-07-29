@@ -3,9 +3,19 @@ This repository is mainly for electrochemistry, relative books reading or some r
 # Book-List
 | 序号 |书名   |日期|
 |---|---|---|
-| Uno |[固态电化学](https://github.com/omwtbarca/Chem2.0/edit/main/README.md#uno-%E5%9B%BA%E6%80%81%E7%94%B5%E5%8C%96%E5%AD%A6)   |20220725-|
-| Dos |[电催化](https://github.com/omwtbarca/Chem2.0/edit/main/README.md#dos-%E7%94%B5%E5%82%AC%E5%8C%96)   |20220730-|
+| Uno |[固态电化学](##Uno.  固态电化学)   |20220725-|
+| Dos |[电催化](##Dos.  电催化)   |20220730-|
+| Dos |[csdsd](##iihio)   |20220730-|
+## iihio
+## Dos. [电催化](https://book.douban.com/subject/30688255/)
+$${\mathscr{2022年7月30日——}}$$
 
+
+| No. |Name   |Date|
+|---|---|---|
+| Cero. |<a href="## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12">Basic Cheminformatics Beta</a>| 2021.9-12|
+| Uno. |<a href="## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-">rdkit-A python libtary aimed to solve chemistry problems</a> |2022.7.30-|
+| Dos. |<a href="## Dos. [ChemPy-Python package](https://pythonhosted.org/chempy/#about-chempy)">ChemPy-Python package</a>| 2022.7.21-26|
 
 
 ## Uno. [固态电化学](https://book.douban.com/subject/30167161/)
@@ -518,6 +528,6 @@ ISBN: 9787122171832
 - [ ] 索引659
 
 
-
+## iihio
 
 
