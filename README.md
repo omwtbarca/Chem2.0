@@ -3,8 +3,16 @@ This repository is mainly for electrochemistry, relative books reading or some r
 # Book-List
 
 
+| No. |Name   |Date|
+|---|---|---|
+| Uno. |[Solid state electrochemistry ](#solid-state-electrochemistry )| 2022.7.25-|
+| Dos. |[Electrocatalysis](#electrocatalysis)|2022.7.30-|
 
-## Uno. [固态电化学](https://book.douban.com/subject/30167161/)
+
+
+
+## Solid state electrochemistry 
+[固态电化学](https://book.douban.com/subject/30167161/)     [↩️](#chem2.0)
 $${\mathscr{2022年7月25日——}}$$
 
 ISBN: 9787122276032
@@ -298,7 +306,8 @@ ISBN: 9787122276032
   
 
   
-## Dos. [电催化](https://book.douban.com/subject/30688255/)
+## Electrocatalysis
+[电催化](https://book.douban.com/subject/30688255/)             [↩️](#chem2.0)
 $${\mathscr{2022年7月30日——}}$$
 
 ISBN: 9787122171832
