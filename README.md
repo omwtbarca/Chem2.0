@@ -3,10 +3,10 @@ This repository is mainly for electrochemistry, relative books reading or some r
 # Book-List
 
 
-| No. |Name   |Date|
-|---|---|---|
-| Uno. |[Solid state electrochemistry ](#solid-state-electrochemistry )| 2022.7.25-|
-| Dos. |[Electrocatalysis](#electrocatalysis)|2022.7.30-|
+| No. |Name   |Date|Rank|Progress|
+|---|---|---|---|---|
+| Uno. |[Solid state electrochemistry ](#solid-state-electrochemistry )| 2022.7.25-|⭐⭐⭐⭐⭐|10%|
+| Dos. |[Electrocatalysis](#electrocatalysis)|2022.7.30-|⭐⭐⭐⭐⭐|10%|
 
 
 
