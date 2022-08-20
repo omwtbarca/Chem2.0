@@ -656,6 +656,8 @@ ISBN: 9787122214188
 1 3 4氢能6
 1 4新能源与电化学的关系7
 参考文献9
+  </details>
+  
 - [ ] 第2章一次电池 
   <summary> El content </summary>
 <details>2 1引言10
