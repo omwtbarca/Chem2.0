@@ -2,7 +2,7 @@
 This repository is mainly for electrochemistry, relative books reading or some resources.
 
 # PyBaMM
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/87826552/186178038-7323d4b4-2baa-4313-a47f-379e0f9d4e08.png)
 https://www.pybamm.org/getting-started#h.vok4mvhmlyq1
 Based on CoLab
 # Book-List
